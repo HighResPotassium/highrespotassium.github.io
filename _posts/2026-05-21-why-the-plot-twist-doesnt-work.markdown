@@ -27,7 +27,7 @@ Now people can argue that it is also a test for the character, since she always 
 
 2. There isn’t any real (believable) motive to her wanting to view Alice as a human like there is for the player, or any in-game explanation as to why she wants to (I'll elaborate on this as well), especially since she can literally say this to Markus (when talking to him about Alice) right before the twist:
 
-{% include embed-audio.html src="/assets/audio/X0201C_BAR_INTRO_PC_X02CCONNOR_HELLOC_ENG.wav" %}
+{% include embed-audio.html src="/assets/audio/X0201A_MEET_MARKUS_PC_X02AKARA_DIFFERENCE_ENG.wav" %}
 
 To elaborate more on my first point, there are many “hints” towards the twist that people have insisted make it "obvious," even though they aren’t necessarily obvious for everyone on a first playthrough; this ultimately results in this player/character “mismatch” that I was discussing earlier (and as briefly mentioned too, I'm not really listing these items as a way to support the twist or suggest that it was well-written, but more so rather to highlight that it wasn’t really obvious to everyone (or, at least, wasn't obvious to *me*) that she was denying Alice being an android).
 
@@ -41,7 +41,7 @@ Some of these have included the following:
 
 And I hate to say it too, but to assume a character just doesn’t eat *at all* just because we don’t see them eat on screen is... superficial if that’s the right word? Not to mention all of the other plausible reasons why she could have been refusing to eat assuming she was human: For instance, she probably refused to eat Rose’s spaghetti in Midnight Train because the events of Stormy Night made spaghetti triggering for her; she also could have been refusing the chocolate bar you steal in Fugitives because she didn’t want to eat something that was stolen (which it is shown during that chapter that she is very heavily against Kara stealing from the convenience store, so this would also make sense). Not to mention too, Kara’s one comment in The Pirates’ Cove chapter about how there are “cookies left” in Luther’s bag could further imply that Alice may have eaten some of the cookies already while they were in the car on the way to the fun fair/Rose’s house:
 
-[insert audio clip here]
+{% include embed-audio.html src="/assets/audio/X0701K_SHOP_COOKIES_PC_X07KKARA_LIKESOME_ENG.wav" %}
 
 There are a lot of reasons why she could have been refusing to eat on screen, and a lot of opportunities off screen where she could have potentially eaten. And especially considering that Kara was being “delusional” because of these “missed queues” according to the fanbase, it is hard for the player to also feel like they’re being “delusional” alongside the character, or see Kara clearly being delusional, because to the player, there are *actual legitimate reasons/conclusions* to why Alice behaves the way she does. This “mismatch” ultimately comes from Kara truly being “delusional” and *actively ignoring* that Alice is an android, and the player *actually assuming* Alice as human based on the evidence given.
 	
@@ -49,7 +49,7 @@ And honestly, I wouldn’t even say they did a good job writing Kara as delusion
        
 3. Also a bit of an off topic “bonus” about Alice’s one quote in Midnight Train and her use of the word “us”:
 
-[insert audio clip here]
+{% include embed-audio.html src="/assets/audio/X0801K_ALICE_TAKECARE_PC_X08KALICE_01CONT_ENG.wav" %}
 
 If I remember correctly, this was the only “hint” that I really caught on my first playthrough; and I put the word “hint” in quotes because when I originally heard it, I didn’t interpret it in the literal sense of, “Oh, she’s referring to herself as one of them, that must mean she’s an android!” – which would ultimately hint towards the twist – but rather in the metaphorical sense of, “Oh she’s referring to herself as one of them, because she’s been able to see the entire ‘Android vs. Human’ stance from an android’s perspective from essentially having android parents for a week, and doesn’t see any difference between herself and them as they are all just people at the end of the day.” And honestly to me, viewing this quote from this metaphorical point of view, while still under the assumption that Alice is human, actually would have made this one of the most significant quotes in the game, and it actually would have emphasized and honed in more on the message that the twist was actually trying to convey than the twist itself had.
 
